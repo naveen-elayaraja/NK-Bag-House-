@@ -41,7 +41,16 @@ The project will be developed progressively from the user interface to a complet
 
 **UI → Frontend → Database → API → Backend → Testing → Deployment**
 
-The technology stack will be finalized as development progresses.
+### Current Technology
+
+The initial frontend foundation has been created with:
+
+- Next.js 16
+- React
+- TypeScript
+- Tailwind CSS
+
+Backend and database technologies will be selected as the application requirements are finalized.
 
 ## Vision
 
