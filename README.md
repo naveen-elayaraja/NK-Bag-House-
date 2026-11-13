@@ -52,6 +52,10 @@ The initial frontend foundation has been created with:
 
 Backend and database technologies will be selected as the application requirements are finalized.
 
+### Architecture
+
+See the [Website Architecture Plan](docs/ARCHITECTURE.md) for the proposed pages, system structure, enquiry workflow, technology decisions, security considerations, and delivery phases.
+
 ## Vision
 
 To build a strong digital presence for NK Bag House and make bulk bag requirements easier to discover, enquire about, and manage through the web.
