@@ -14,14 +14,22 @@ Use this checklist to confirm business decisions before implementation. Items ma
 
 ## 2. Product catalogue
 
-- [ ] List the actual product categories.
-- [ ] Confirm product names and customer-facing descriptions.
+- [ ] Confirm the catalogue under the communicated product families:
+  - [ ] Manufactured bags: School Bags, Travel Bags, General Bags.
+  - [ ] Leather products: Leather Bags, Leather Wallets, Leather Keychains, Leather Card Holders, Leather Belts.
+- [ ] Confirm which listed products are manufactured by NK Bag House and which are sourced or supplied, if applicable.
+- [ ] Confirm whether "General Bags" should be renamed or divided into more specific customer-facing categories.
+- [ ] Confirm the affordable-pricing and quality positioning that can be stated truthfully on the website.
+- [ ] Confirm the actual product names and customer-facing descriptions within each category.
+- [ ] Provide the available product list and approved photographs for School Bags, Travel Bags, General Bags, and each leather product category.
 - [ ] Confirm which specifications can be published (for example, dimensions, material, capacity, colour, and construction).
 - [ ] Confirm available customisation options.
 - [ ] Confirm minimum order quantities for each product, if they vary.
 - [ ] Decide whether prices are public, indicative, or enquiry-only.
 - [ ] Identify products that should be featured on the home page.
 - [ ] Confirm who will provide and approve product updates.
+
+The current category list is based on the business requirements communicated for the project; the actual product inventory, manufacturing/sourcing status, and category naming still require business confirmation.
 
 Do not publish example specifications as real product facts. Use the product content template in `PRODUCT_CONTENT_TEMPLATE.md` to gather verified information.
 
