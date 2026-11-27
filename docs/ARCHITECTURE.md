@@ -11,7 +11,7 @@ The initial order range communicated for the business is **10 to 100,000 pieces*
 ### MVP — Customer-facing website
 
 1. **Home** — business introduction, key value proposition, product categories, and a clear enquiry call to action.
-2. **Products** — browsable product catalogue with images and concise specifications.
+2. **Products** — browsable catalogue grouped into School Bags, Travel Bags, General Bags, and Leather Products (Leather Bags, Wallets, Keychains, Card Holders, and Belts), with images and verified specifications.
 3. **Product details** — product-specific information and an enquiry action.
 4. **Custom / Bulk Enquiry** — form for contact details, product or requirement, quantity, and optional message or reference attachment.
 5. **About** — business background, capabilities, and relevant manufacturing information.
@@ -24,6 +24,26 @@ The initial order range communicated for the business is **10 to 100,000 pieces*
 - Inventory, order tracking, quotations, online payments, or CRM integration.
 
 These are not part of the initial build unless requirements confirm their value.
+
+## 2.1 Product Catalogue Groups
+
+The customer-facing catalogue should initially organise products into these groups:
+
+**Manufactured bag categories (manufacturing status to be confirmed for each product):**
+- School Bags
+- Travel Bags
+- General Bags
+
+**Leather product categories (in-house manufacturing versus sourcing/supply to be confirmed):**
+- Leather Bags
+- Leather Wallets
+- Leather Keychains
+- Leather Card Holders
+- Leather Belts
+
+The Products page should make both groups easy to discover. Each category can lead to a product listing, and each approved product can have a detail page with verified images, descriptions, options, and an enquiry action. Do not invent product variants or specifications to populate empty categories.
+
+The business's stated positioning is affordable pricing with good quality. The website may communicate this as a value proposition in restrained wording, but must not claim "lowest price", "best in the market", or a specific quality standard without evidence and business approval. Confirm which items are manufactured, sourced, or supplied before publishing origin or production claims.
 
 ## 3. High-Level Architecture
 
@@ -71,7 +91,8 @@ The following are conceptual entities, not a finalized database schema.
 ### Product
 
 - Product identifier
-- Name and category
+- Name, product family, and category
+- Manufacturing / sourcing / supply status (business-confirmed)
 - Short and detailed description
 - Images
 - Specifications and available options
@@ -166,7 +187,8 @@ This is a target structure, not a requirement to create every route or folder im
 The following must be confirmed before the related implementation begins:
 
 - Final UI reference, brand colours, typography, and logo assets.
-- Actual product categories, images, dimensions, materials, and other specifications.
+- Actual product inventory, images, dimensions, materials, and other specifications across School Bags, Travel Bags, General Bags, Leather Bags, Leather Wallets, Leather Keychains, Leather Card Holders, and Leather Belts.
+- Which product lines are manufactured in-house versus sourced or supplied, and the approved affordable-pricing / quality wording.
 - Whether prices should be displayed or all sales should be enquiry-based.
 - Required enquiry fields and allowed attachment types / size limits.
 - Who receives enquiries and how quickly they are expected to respond.
