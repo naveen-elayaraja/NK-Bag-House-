@@ -8,13 +8,40 @@ Use this template to collect accurate product information before adding an item 
 |---|---|
 | Internal product ID | To assign |
 | Product name | To confirm |
-| Category | To confirm |
+| Product family | Manufactured bags / Leather products — confirm |
+| Category | School Bags / Travel Bags / General Bags / Leather Bags / Leather Wallets / Leather Keychains / Leather Card Holders / Leather Belts — select and confirm |
 | Short description | To write after business approval |
 | Full description | To confirm |
 | Publication status | Draft / Approved / Archived |
 | Featured on home page | Yes / No |
 | Content approved by | To confirm |
 | Last verified | To confirm |
+
+## Product family and supply details
+
+Select the correct category for each actual product record:
+
+**Manufactured bag categories**
+- School Bags
+- Travel Bags
+- General Bags
+
+**Leather product categories**
+- Leather Bags
+- Leather Wallets
+- Leather Keychains
+- Leather Card Holders
+- Leather Belts
+
+| Business detail | Verified value |
+|---|---|
+| Made by NK Bag House, sourced, or supplied by a partner | To confirm |
+| Manufacturing / sourcing location, if appropriate to publish | To confirm |
+| Materials and material grade | To confirm |
+| Affordable / budget options available | To confirm with business |
+| Quality checks or standards that may be described publicly | To confirm with evidence |
+
+Do not describe a product as manufactured in-house unless the business confirms that. Do not make absolute "cheapest", "best quality", or similar comparative claims without substantiation.
 
 ## Product specifications
 
@@ -102,4 +129,4 @@ Use this table to track which product records are ready. Add rows only after the
 
 | Product | Category | Information received | Images received | Approved |
 |---|---|---|---|---|
-| To be added | To be confirmed | No | No | No |
+| To be added | School Bags / Travel Bags / General Bags / Leather Products | No | No | No |
