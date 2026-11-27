@@ -14,11 +14,30 @@
 
 The NK Bag House web platform is being developed to bring the business online through a polished, user-friendly digital experience and help the business reach a wider audience.
 
+## Product Range
+
+The website will organise the communicated product range into two easy-to-browse groups:
+
+**Manufactured bag categories**
+- School Bags
+- Travel Bags
+- General Bags
+
+**Leather products**
+- Leather Bags
+- Leather Wallets
+- Leather Keychains
+- Leather Card Holders
+- Leather Belts
+
+The business's stated positioning is affordable pricing with quality-focused options. Product-level availability, specifications, pricing, and whether each leather item is manufactured in-house or sourced/supplied will be confirmed before publication.
+
 ## Purpose
 
 The platform is designed to make it easier for customers to:
 
-- Explore available bag products
+- Explore School Bags, Travel Bags, and General Bags
+- Browse leather bags, wallets, keychains, card holders, and belts
 - Understand verified product options and specifications
 - Submit bulk requirements
 - Request custom requirements
