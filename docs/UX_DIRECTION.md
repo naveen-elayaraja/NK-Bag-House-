@@ -34,11 +34,31 @@ A "Manufacturing & Quality" page or navigation item may be added only when the b
 
 Use a category mega menu only if the confirmed catalogue has enough categories to justify it. Otherwise, use a clean dropdown or direct catalogue link. Add catalogue search and filters only when the number of products makes browsing difficult without them.
 
+### Product families and catalogue navigation
+
+The catalogue should clearly separate the business's communicated product groups:
+
+**Manufactured bag categories**
+- School Bags
+- Travel Bags
+- General Bags
+
+**Leather product categories**
+- Leather Bags
+- Leather Wallets
+- Leather Keychains
+- Leather Card Holders
+- Leather Belts
+
+Show these as distinct, easy-to-scan category groups on the Products page and, where appropriate, as visual category cards on the home page. A visitor should be able to open a category and browse the products listed under it. Do not create individual product listings, variants, or specifications until the business supplies the actual catalogue and approved images.
+
+The business has also expressed an affordable-price and quality-focused positioning. Use careful wording such as "Affordable options" or "Discuss your budget and requirements" until specific price points, material standards, quality processes, and sourcing arrangements are confirmed. Confirm which leather products are manufactured by NK Bag House and which, if any, are sourced or supplied through partners before describing their origin.
+
 ## 4. Homepage content sequence
 
 1. **Header** — logo, concise navigation, and a clear quote/enquiry action.
 2. **Hero** — authentic, high-quality product or manufacturing image; concise value proposition; primary "Request a Quote" action and a secondary "Explore Products" action.
-3. **Product categories** — visually distinct category cards based on the actual catalogue.
+3. **Product categories** — visually distinct cards for School Bags, Travel Bags, General Bags, and a separate Leather Products group.
 4. **Business capabilities** — verified order range, customisation options, or production capabilities. Do not publish unverified capacity or quality claims.
 5. **Featured products** — a curated selection linking to detailed product information.
 6. **How enquiries work** — a simple explanation of how customers share requirements and receive a response.
@@ -127,7 +147,8 @@ The UI direction is successful when a first-time visitor can quickly:
 
 - Final logo and approved brand assets.
 - UI screenshots or reference URLs selected by the customer.
-- Confirmed product categories and product photography.
+- Confirmed product catalogue under School Bags, Travel Bags, General Bags, and Leather Products (Leather Bags, Wallets, Keychains, Card Holders, and Belts), plus approved product photography.
+- Confirm which product lines are manufactured in-house and which are sourced or supplied, if applicable.
 - Approved specifications and capability statements.
 - Final contact details and enquiry recipient.
 - Brand colour and typography preferences, if already established.
